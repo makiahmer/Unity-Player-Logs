@@ -1,0 +1,138 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+VR: OpenVR Error! OpenVR failed initialization with error code VRInitError_Init_HmdNotFound: "Hmd Not Found (108)"!
+ 
+(Filename:  Line: 959)
+
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1080 (ID=0x1b80)
+    Vendor:   NVIDIA
+    VRAM:     8144 MB
+    Driver:   21.21.13.7633
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\ME!\Desktop\Unity Projects (C Drive)\Makiah\Testing Player Logs\GameBuild\TestingPlayerLogs_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\ME!\Desktop\Unity Projects (C Drive)\Makiah\Testing Player Logs\GameBuild\TestingPlayerLogs_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\ME!\Desktop\Unity Projects (C Drive)\Makiah\Testing Player Logs\GameBuild\TestingPlayerLogs_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\ME!\Desktop\Unity Projects (C Drive)\Makiah\Testing Player Logs\GameBuild\TestingPlayerLogs_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\ME!\Desktop\Unity Projects (C Drive)\Makiah\Testing Player Logs\GameBuild\TestingPlayerLogs_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\ME!\Desktop\Unity Projects (C Drive)\Makiah\Testing Player Logs\GameBuild\TestingPlayerLogs_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\ME!\Desktop\Unity Projects (C Drive)\Makiah\Testing Player Logs\GameBuild\TestingPlayerLogs_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\ME!\Desktop\Unity Projects (C Drive)\Makiah\Testing Player Logs\GameBuild\TestingPlayerLogs_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\ME!\Desktop\Unity Projects (C Drive)\Makiah\Testing Player Logs\GameBuild\TestingPlayerLogs_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\ME!\Desktop\Unity Projects (C Drive)\Makiah\Testing Player Logs\GameBuild\TestingPlayerLogs_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\ME!\Desktop\Unity Projects (C Drive)\Makiah\Testing Player Logs\GameBuild\TestingPlayerLogs_Data\Managed\UnityEngine.VR.dll (this message is harmless)
+Loading C:\Users\ME!\Desktop\Unity Projects (C Drive)\Makiah\Testing Player Logs\GameBuild\TestingPlayerLogs_Data\Managed\UnityEngine.VR.dll into Unity Child Domain
+- Completed reload, in  0.017 seconds
+Platform assembly: C:\Users\ME!\Desktop\Unity Projects (C Drive)\Makiah\Testing Player Logs\GameBuild\TestingPlayerLogs_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\ME!\Desktop\Unity Projects (C Drive)\Makiah\Testing Player Logs\GameBuild\TestingPlayerLogs_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1200 59Hz; virtual: 4650x1680 at -1050,-203
+<RI> Initialized touch support.
+VR: OpenVR Error! OpenVR failed initialization with error code VRInitError_Init_HmdNotFound: "Hmd Not Found (108)"!
+ 
+(Filename:  Line: 959)
+
+VR: OpenVR Error! OpenVR failed initialization with error code VRInitError_Init_HmdNotFound: "Hmd Not Found (108)"!
+ 
+(Filename:  Line: 959)
+
+UnloadTime: 0.649707 ms
+C:/Users/ME!/AppData/LocalLow/DefaultCompany/project_template/gameData.dat
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 30ac -> priority: 1 
+  Thread -> id: 2208 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.057414 ms
+Trying to instantiate multiple LaserPointerInputModule.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.EventSystems.BaseInputModule.OnDisable () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:DestroyImmediate(Object, Boolean)
+UnityEngine.Object:DestroyImmediate(Object)
+Wacki.LaserPointerInputModule:Awake()
+ 
+(Filename:  Line: -1)
+
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 826.
+Total: 0.766465 ms (FindLiveObjects: 0.029125 ms CreateObjectMapping: 0.021205 ms MarkObjects: 0.175520 ms  DeleteObjects: 0.540358 ms)
+
+File Loaded: 20170131.1853
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+File Loaded: 20170131.1853
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+File Loaded: 20170131.1853
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.580214 ms
+C:/Users/ME!/AppData/LocalLow/DefaultCompany/project_template/gameData.dat
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 806.
+Total: 0.185740 ms (FindLiveObjects: 0.018395 ms CreateObjectMapping: 0.010986 ms MarkObjects: 0.149205 ms  DeleteObjects: 0.007153 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.543424 ms
+C:/Users/ME!/AppData/LocalLow/DefaultCompany/project_template/gameData.dat
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 806.
+Total: 0.188806 ms (FindLiveObjects: 0.018395 ms CreateObjectMapping: 0.010986 ms MarkObjects: 0.153037 ms  DeleteObjects: 0.006131 ms)
+
+File Saved: 20170131.1853
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+File Loaded: 20170131.1853
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+File Loaded: 20170131.1854
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+File Loaded: 20170131.1854
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.541124 ms
+C:/Users/ME!/AppData/LocalLow/DefaultCompany/project_template/gameData.dat
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 806.
+Total: 0.184462 ms (FindLiveObjects: 0.015840 ms CreateObjectMapping: 0.010986 ms MarkObjects: 0.150482 ms  DeleteObjects: 0.006898 ms)
+
+File Saved: 20170131.1854
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.549811 ms
+C:/Users/ME!/AppData/LocalLow/DefaultCompany/project_template/gameData.dat
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 806.
+Total: 0.179863 ms (FindLiveObjects: 0.016862 ms CreateObjectMapping: 0.010986 ms MarkObjects: 0.146139 ms  DeleteObjects: 0.005620 ms)
+
